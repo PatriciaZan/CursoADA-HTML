@@ -1,9 +1,12 @@
 # HTML - (Hypertext markup Language)
 
-* Hipertexto.
+## Hipertexto.
 Pode conter referências navegáveis para outros textos.
+
 Essas referências são os **LINKS**.
+
 Linguagem de marcação, que possui símbolos especias que indicans metainformações.
+
 Referência a forma hierarquica, ordem e semântica.
 
 **Marcação -> tags (elementos)**.
