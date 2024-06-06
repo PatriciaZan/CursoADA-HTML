@@ -16,7 +16,7 @@ Referência a forma hierarquica, ordem e semântica.
 <button>
 ```
 
-Os elementos podem conter **atributos** ex.
+* *Os elementos podem conter **atributos** ex:*
 
 `<div>class="nomeClasse"</div>`.
 
@@ -51,7 +51,7 @@ Os elementos podem conter **atributos** ex.
 `<img/>`      // Imagem.
 
 
-* Principais Tags.
+* *Principais Tags.*
 
 `<h1>`      // Titulos.
 
@@ -102,7 +102,7 @@ Os elementos podem conter **atributos** ex.
 `<sup>`       // 2 elavado a 10 etc... H2O.
 
 ___
-## Elementos semanticos HTML5
+## Elementos semânticos HTML5
 
 `<header>`   // Cabeçalho.
 
